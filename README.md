@@ -6,7 +6,7 @@ This is my personal website.
 
 ### Demo
 
-Check the website in action [Demo](https://miguel-serrano.me/)
+Check the website in action [Demo](www.miguel-serrano.me/)
 
 * * *
 

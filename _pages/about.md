@@ -5,7 +5,8 @@ permalink: /about/
 image: '/images/m-01.jpg'
 ---
 
-Hi, my name is Miguel Serrano. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Hi, my name is Miguel Serrano and I'm a Software Engineer. I like learning new things, being creative and enjoying every moment. From the sound of mechanical keyboards to the sound of birds chirping in the early morning. I try and enjoy the little things as they are what life is made of. One of my favorite things is to take long drives while listening to an awesome playlist, this gives me time to think.
+
 
 ![Time to think]({{site.baseurl}}/images/31.jpg)
 *Time to think*

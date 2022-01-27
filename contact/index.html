@@ -6,10 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Page not found</title>
+  <title>Contact Me</title>
   <meta name='description' content=''>
 
-  <link rel="canonical" href="http://localhost:4000/404.html">
+  <link rel="canonical" href="http://localhost:4000/contact/">
   <link rel="alternate" type="application/rss+xml" title="Maverick" href="/feed.xml">
 
   <!-- Fonts -->
@@ -238,7 +238,7 @@
   <div class="row">
     <div class="col col-12">
       <div class="image-box">
-        <img class="page-image" src="/images/32.jpg" alt="Page not found">
+        <img class="page-image" src="/images/45.jpg" alt="Contact Me">
       </div>
     </div>
   </div>
@@ -251,19 +251,33 @@
       <!-- begin page -->
       <article class="page animate">
         <div class="page-head">
-          <h1 class="page-title">Page not found</h1>
+          <h1 class="page-title">Contact Me</h1>
         </div>
         <div class="page__content">
-          <div class="container">
-  <div class="row">
-    <div class="col col-12" style="text-align: center">
-      <h2>404</h2>
-      <p>The requested page could not be found.</p>
-      <p><a href="/" class="button button--middle"  style="text-decoration: none"><i class="ion ion-md-arrow-back"></i> Back to the blog</a></p>
+          <div class="form-container">
+  
+  <p class="contact-description">The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!</p>
+  
+  <form class="form"
+    action="https://formspree.io/your@email.com" method="POST">
+    <div class="form__group">
+      <label class="form__label" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
     </div>
-  </div>
+    <div class="form__group">
+      <label class="form__label" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--primary" type="submit">Send Message</button>
+    </div>
+    <input type="hidden" name="_next" value="/contact/thanks/" />
+  </form>
 </div>
-
         </div>
       </article>
       <!-- end page -->

@@ -22,7 +22,7 @@ Deftones, Tool, APC, and Bones... Ah yes, that is what life is made of.
   </div>
 </div>
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+Life is strong with this one. 
 
 <p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
 

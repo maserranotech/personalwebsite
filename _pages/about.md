@@ -11,14 +11,14 @@ Hi, my name is Miguel Serrano and I'm a Software Engineer. I like learning new t
 ![Time to think]({{site.baseurl}}/images/31.jpg)
 *Time to think*
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+Deftones, Tool, APC, and Bones... Ah yes, that is what life is made of. 
+
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/29.jpg">
-    <img src="/images/30.jpg">
-    <img src="/images/31.jpg">
+    <img src="/images/h-1.jpg">
+    <img src="/images/h-2.jpg">
+    <img src="/images/h-3.jpg">
   </div>
 </div>
 

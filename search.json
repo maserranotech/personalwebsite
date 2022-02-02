@@ -81,6 +81,14 @@
     } ,
   
     {
+      "title"    : "tHIS IS MY CUSTOM POST",
+      "category" : "",
+      "tags"     : "Lifestyle",
+      "url"      : "/2018/05/30/cust-post/",
+      "date"     : "May 30, 2018"
+    } ,
+  
+    {
       "title"    : "The plans you refer to will soon be back in our hands",
       "category" : "",
       "tags"     : "Lifestyle",
